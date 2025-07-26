@@ -25,6 +25,7 @@ public class SpringBootFirstApp2Application {
 	 * }
 	 */
 	public static void main(String[] args) {
+		System.out.println("PratikTesting Jenkins");
 		SpringApplication.run(SpringBootFirstApp2Application.class, args);
 	}
 
