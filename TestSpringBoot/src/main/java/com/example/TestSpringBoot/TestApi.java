@@ -8,7 +8,7 @@ public class TestApi {
 	
 	@GetMapping("/welcome")
 	public String welcome() {
-		return "Welcome to My First Project ";
+		return "Welcome to My First Project";
 	}
 
 }
